@@ -1,3 +1,5 @@
+admin@whaticket.com admin
+
 ## Deploy Ubuntu 22.x
 
 ```bash
